@@ -1,0 +1,26 @@
+{
+  "name": "eyeos-stomp",
+  "description": "Implementation of the STOMP protocol in node.js",
+  "version": "0.1.15",
+  "author": "eyeos",
+  "main": "lib/stomp",
+  "directories": {
+    "lib": "./lib",
+    "examples": "./examples"
+  },
+  "dependencies": {
+    "stompjs": "~2.3.3"
+  },
+  "devDependencies": {
+    "nodeunit": "0.9.0",
+    "chai": "~2.3.0",
+    "sinon": "~1.14.1",
+    "eyeos-gruntfile": "*",
+    "mocha": "~2.2.5",
+    "grunt": "0.4.5",
+    "grunt-init": "0.2.1",
+    "grunt-shell": "0.7.0",
+    "grunt-mocha-test": "0.11.0"
+  },
+  "license": "AGPL-3.0"
+}
