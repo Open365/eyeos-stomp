@@ -1,7 +1,7 @@
 {
   "name": "eyeos-stomp",
   "description": "Implementation of the STOMP protocol in node.js",
-  "version": "0.1.15",
+  "version": "0.1.16",
   "author": "eyeos",
   "main": "lib/stomp",
   "directories": {
